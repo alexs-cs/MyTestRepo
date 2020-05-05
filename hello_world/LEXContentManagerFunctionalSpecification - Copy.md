@@ -132,7 +132,7 @@ Definitions, acronyms, and abbreviations
 References
 ----------
 
-\[1\] Software Coding Standard, C++ version.
+[1] Software Coding Standard, C++ version.
 
 \[2\] MIMEsweeper 4.0 development environment.
 
