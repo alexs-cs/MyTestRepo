@@ -134,15 +134,15 @@ References
 
 \[1] Software Coding Standard, C++ version.
 
-\[2\] MIMEsweeper 4.0 development environment.
+\[2] MIMEsweeper 4.0 development environment.
 
-\[3\] MIMEsweeper 4.0 runtime environment.
+\[3] MIMEsweeper 4.0 runtime environment.
 
-\[4\] MIMEsweeper 4.0 development guidelines.
+\[4] MIMEsweeper 4.0 development guidelines.
 
-\[5\] MIMEsweeper 4.0 plugin architecture.
+\[5] MIMEsweeper 4.0 plugin architecture.
 
-\[6\] MIMEsweeper 4.0 Content Manager interface specification.
+\[6] MIMEsweeper 4.0 Content Manager interface specification.
 
 \[7\] MIMEsweeper 4.0 Plugin Configurator interface specification.
 
