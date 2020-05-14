@@ -231,7 +231,8 @@ There are two types of expression list.
 The first is the *Managed Lexical Analysis Expression List*. This is where the actual expressions are stored in an external file, outside of the main policy. This file is then referenced by a *Managed Lexical Analysis Expression List* object in the *External References* section of the policy. The external file has the same format as the normal unmanaged Expression List.
 
 <pre>
-    The second is the normal unmanaged Expression List. In this case the expressions then selves are contain within the     Expression List in the *External References* section of the policy.
+    The second is the <font color="#ff0000">normal</font> unmanaged Expression List. In this case the expressions then selves are contain within the 
+    Expression List in the *External References* section of the policy.
 </pre>
 
 The two types of list can be distinguished by their friendly names. The normal unmanaged Expression List will have a friendly name of either *Expression List* or *Lexical Analysis Expression List*. While the managed expression lists will use either *Managed Expression
